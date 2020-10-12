@@ -51,7 +51,7 @@ For my session, I will be sharing about the types of space exploration problems 
 - **Slide Deck:** Coming Soon
 - **Video:** [Join the Session](https://myignite.microsoft.com/sessions/b0527d73-b179-4220-a096-cb48a160040e)
 
-### Learn It All
+#### Learn It All
 
 - [Discover the role of Python in space exploration](https://docs.microsoft.com/learn/paths/introduction-python-space-exploration-nasa/?WT.mc_id=ignite2020_techseries)
 - [Classify space rocks by using Python and artificial intelligence](https://docs.microsoft.com/learn/paths/classify-space-rocks-artificial-intelligence-nasa/?WT.mc_id=ignite2020_techseries)
