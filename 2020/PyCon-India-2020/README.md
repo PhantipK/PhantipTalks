@@ -8,7 +8,7 @@
 
 ## Microsoft Learning Hub
 
-![Image of Microsoft Learning Hub Speakers](https://github.com/PhantipK/PhantipTalks/tree/master/2020/PyCon-India-2020/Images/All-Speakers.jpeg)
+![Image of Microsoft Learning Hub Speakers](https://github.com/PhantipK/PhantipTalks/blob/master/2020/PyCon-India-2020/Images/All-Speakers.jpeg)
 
 As part of PyCon India 2020, **[Microsoft](https://azure.microsoft.com)** will be at the conference as a [Platinum Sponsor](https://in.pycon.org/blog/2020/sponsor-announcement-microsoft-azure.html) and **[Microsoft Learning Hub](https://aka.ms/pycon.india.ms)** will feature:
 
@@ -19,7 +19,7 @@ Join in for Microsoft Learning Hub and skill up [here](https://aka.ms/pycon.indi
 
 ## Building a Dev Community anywhere on the 🌏
 
-![Image of Building a Dev Community anywhere on the 🌏 Session](https://github.com/PhantipK/PhantipTalks/tree/master/2020/PyCon-India-2020/Images/Anywhere-on-the-planet.jpeg)
+![Image of Building a Dev Community anywhere on the 🌏 Session](https://github.com/PhantipK/PhantipTalks/blob/master/2020/PyCon-India-2020/Images/Anywhere-on-the-planet.jpeg)
 
 [Join this session](https://aka.ms/pycon.india.ms) to learn, connect, and chat with community leaders around the world.
 
