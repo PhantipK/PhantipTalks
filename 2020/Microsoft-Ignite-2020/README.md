@@ -42,7 +42,7 @@ This session will be broadcast live globally and will be repeated in 3 time zone
 For my session, I will be sharing about the types of space exploration problems and how data science can influence with Python and Visual Studio Code in English.
 
 - **Session Code:** LRN170
-- **Dates:** September 24, 2020
+- **Date:** September 24, 2020
 - **Time:** 13:15 - 13:45
 - **Register:** [Register for Free](https://myignite.microsoft.com/sessions/b0527d73-b179-4220-a096-cb48a160040e)
 
