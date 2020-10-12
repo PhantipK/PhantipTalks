@@ -8,18 +8,16 @@
 
 ## Microsoft Learning Hub
 
-![Image of Microsoft Learning Hub Speakers](https://github.com/PhantipK/PhantipTalks/blob/master/2020/PyCon-India-2020/Images/All-Speakers.jpeg)
-
 As part of PyCon India 2020, **[Microsoft](https://azure.microsoft.com)** will be at the conference as a [Platinum Sponsor](https://in.pycon.org/blog/2020/sponsor-announcement-microsoft-azure.html) and **[Microsoft Learning Hub](https://aka.ms/pycon.india.ms)** will feature:
 
 - **Community Hub:** Community dialogues and discussions for you to connect with community leaders
 - **Skilling Hub:** Technical contents and workshops for you to skill-up your Azure, Python, AI, and Machine Learning knowledge
 
+![Image of Microsoft Learning Hub Speakers](https://github.com/PhantipK/PhantipTalks/blob/master/2020/PyCon-India-2020/Images/All-Speakers.jpeg)
+
 Join in for Microsoft Learning Hub and skill up [here](https://aka.ms/pycon.india.ms).
 
 ## Building a Dev Community anywhere on the 🌏
-
-![Image of Building a Dev Community anywhere on the 🌏 Session](https://github.com/PhantipK/PhantipTalks/blob/master/2020/PyCon-India-2020/Images/Anywhere-on-the-planet.jpeg)
 
 [Join this session](https://aka.ms/pycon.india.ms) to learn, connect, and chat with community leaders around the world.
 
@@ -29,6 +27,8 @@ Join in for Microsoft Learning Hub and skill up [here](https://aka.ms/pycon.indi
   - [Olivia Ha](https://twitter.com/Oliviaha2) | [APAC MVP Community Coordinator](https://mvp.microsoft.com) at Microsoft
   - [Leanne Robers](https://www.linkedin.com/in/leannerobers) | [She Loves Tech](https://www.shelovestech.org)
   - [Phantip Kokilanon](https://twitter.com/PhantipK) | [Spark Tech Thailand](https://www.facebook.com/SparkTechTH) by [Microsoft Learn Student Ambassadors Thailand](https://studentambassadors.microsoft.com)
+
+![Image of Building a Dev Community anywhere on the 🌏 Session](https://github.com/PhantipK/PhantipTalks/blob/master/2020/PyCon-India-2020/Images/Anywhere-on-the-planet.jpeg)
 
 #### Session Viewing
 
