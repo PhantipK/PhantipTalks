@@ -37,7 +37,7 @@ This session will be broadcast live globally and will be repeated in 3 time zone
 | Phantip Kokilanon | September 24, 2020 | 13:15 - 13:45 (GMT+7) | [Register](https://myignite.microsoft.com/sessions/b0527d73-b179-4220-a096-cb48a160040e) | https://bit.ly/PhantipIgnite2020 |
 | Barnam Bora | September 24, 2020 | 16:15 - 16:45 (CEST) | [Register](https://myignite.microsoft.com/sessions/4c4ac56c-7575-4e52-8f8b-6787f2206fb1) | https://aka.ms/talkswithdrg/ignite2020 |
 
-### Redelivery in Bangkok Time (GMT+7)
+#### Redelivery in Bangkok Time (GMT+7)
 
 For my session, I will be sharing about the types of space exploration problems and how data science can influence with Python and Visual Studio Code in English.
 
@@ -46,7 +46,7 @@ For my session, I will be sharing about the types of space exploration problems 
 - **Time:** 13:15 - 13:45
 - **Register:** [Register for Free](https://myignite.microsoft.com/sessions/b0527d73-b179-4220-a096-cb48a160040e)
 
-### Resources
+#### Resources
 
 - **Slide Deck:** Coming Soon
 - **Video:** [Join the Session](https://myignite.microsoft.com/sessions/b0527d73-b179-4220-a096-cb48a160040e)
